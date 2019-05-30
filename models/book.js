@@ -45,11 +45,6 @@ class BookModel extends HTTP{
       }
     })
   }
-
-
-  
-  
-
   
 }
 
